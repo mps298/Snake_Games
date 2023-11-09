@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/bomb.png</file>
+        <file>Images/bombed.png</file>
+        <file>Images/closed.png</file>
+        <file>Images/flaged.png</file>
+        <file>Images/icon.png</file>
+        <file>Images/zero.png</file>
+        <file>Images/snake-icon.ico</file>
+    </qresource>
+</RCC>
